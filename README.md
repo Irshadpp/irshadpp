@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Irshadpp](https://github.com/Irshadpp)
 
-- 💬 Ask me about **Reactjs, Nodejs, Javascript, Mongodb**
+- 💬 Ask me about **Nodejs, Javascript, Typescript, Reactjs, Mongodb, Microservices**
 
 - 📫 How to reach me **irshadpp13@gmail.com**
 
