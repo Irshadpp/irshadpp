@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irshadpp" alt="irshadpp" /></a> </p>
 
-- 🌱 I’m currently working on **MERN and Microservices**
+- 🌱 I’m currently working with **MERN and Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Irshadpp](https://github.com/Irshadpp)
 
